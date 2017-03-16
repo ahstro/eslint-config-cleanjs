@@ -1,16 +1,16 @@
 {
-  "name": "eslint-config-cleanjs",
+  "name": "eslint-config-cleanjs-warn",
   "version": "4.0.0",
   "description": "An eslint config which reduces JS to a pure functional language",
   "main": "index.js",
   "keywords": [
     "eslint"
   ],
-  "author": "Bodil Stokke",
+  "author": "Anton Strömkvist",
   "license": "LGPL-3.0+",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bodil/eslint-config-cleanjs.git"
+    "url": "git+https://github.com/ahstro/eslint-config-cleanjs-warn.git"
   },
   "peerDependencies": {
     "eslint": "^3.3.1",
